@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm a Fresh Communincations and Electronics Engineer Graduate,Interested to be an Embedded Software Engineer <br><br>- 👨‍💻 I’m currently working on improving my Technical skills.<br>- 📚 Learning everything about Embedded Systems Leaning towards Automotive Field. 😅
+I'm a Fresh Communincations and Electronics Engineer Graduate.
+<p align="left"> Interested to be an Embedded Software Engineer</p> <br><br>- 👨‍💻 I’m currently working on improving my Technical skills.<br>- 📚 Learning everything about Embedded Systems Leaning towards Automotive Field. 😅
 
 
 <h3 align="left">Connect with me:</h3>
