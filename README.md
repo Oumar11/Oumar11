@@ -21,8 +21,6 @@ I'm a Fresh Communincations and Electronics Engineer Graduate.
 <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" height="40" />
 
 </a> </p>
-
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=oumar11&show_icons=true&locale=en&layout=compact" alt="oumar11" /></p>
 
 
@@ -30,6 +28,8 @@ I'm a Fresh Communincations and Electronics Engineer Graduate.
 
 
 
+
+ 
 
 
 
